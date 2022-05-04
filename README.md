@@ -41,7 +41,7 @@ Vamos al final de todo, donde aparece “HTTPs server” e introducimos esta con
 Una vez lista la configuración, introducimos los archivos html que queramos mostrar con nginx. En mi caso he descargado tres páginas html en https://onehtmlpagechallenge.com y he creado un archivo índice adicional index.html el cual pusimos en la configuración previa, con el que poder acceder a estos. 
   
 
-Abrimos nuestra consola de comandos, nos dirigimos a la carpeta de nginx y ejecutamos el comando “start nginx”.  
+Abrimos nuestra consola de comandos, nos dirigimos a la carpeta de nginx y ejecutamos el comando `start nginx`.  
 ![image](https://user-images.githubusercontent.com/91744454/166662261-81a5ca57-641d-4f94-bfce-0075e1b948b4.png)
 
 
